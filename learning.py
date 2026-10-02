@@ -134,3 +134,6 @@ def compare(expected, actual):
 expected = {"id": 15, "status": "approved", "sample_count": 3, "lab": "Химлаб"}
 actual = {"id": 15, "status": "in_review", "sample_count": 3, "created_by": "admin"}
 print("Расхождений:", compare(expected, actual))
+
+
+изменение нахуй 
